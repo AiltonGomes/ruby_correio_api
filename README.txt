@@ -1,3 +1,5 @@
+Projeto simples de automação de testes de API com Ruby e HTTParty.
+
 Estrutura do projeto:
 
     teste_correios_api
@@ -37,7 +39,9 @@ Estrutura do projeto:
 
 
 
-Para rodar o projeto, basta rodar os comandos no prompt de comando:
+Para rodar o projeto basta abrir o CMD na pasta raiz e rodar os comandos abaixo:
+
+    Bundle install
     
     Windows --> cucumber -t 'tag_do_teste'
 
