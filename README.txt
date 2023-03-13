@@ -21,7 +21,7 @@ Estrutura do projeto:
 
 │── data
     A pasta data será onde conterá toda nossa massa de dados, facilitando assim 
-    toda nossa altomação e alteração de dados durante os nossos testes.
+    toda nossa automação e alteração de dados durante os nossos testes.
 
 │── services
     É a pasta ondeteremos a lógica e nossas chamadas as devidas APIs.
